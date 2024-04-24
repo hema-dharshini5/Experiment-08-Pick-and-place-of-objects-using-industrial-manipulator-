@@ -117,6 +117,7 @@ and click on the connect icon
 ![robo ep 8 12](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/ef2c69db-3da7-4f59-97d1-fd329b56d2ad)
 ![robo ep 8 13](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/981ed4fb-8de7-4455-a51f-68bafa1c4e6d)
 
+https://drive.google.com/file/d/1Aq0mf536k1_D-J-hQNLKF5dxki4NwhqE/view?usp=drivesdk
 ### Results: 
 The experiment to pick and place a regular shape using two finger gripper on the conveyor belt has been verified.
 
