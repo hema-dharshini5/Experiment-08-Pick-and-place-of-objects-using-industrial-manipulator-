@@ -1,3 +1,5 @@
+## Name : Hema Dharshini N
+## Register no: 212223220034
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
