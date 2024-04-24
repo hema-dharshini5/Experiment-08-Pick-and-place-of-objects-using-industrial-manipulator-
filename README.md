@@ -99,8 +99,21 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 13 36 20_c00ba67e](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/fca45601-411b-490b-bffd-d5e3ca686950)
 
+![robo ep 8 2](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/179ae76d-d978-4d98-96cc-917cf2e3ac7f)
+![robo 8 3](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/400a950f-0a6a-4f98-a19a-e2d5b7ea4089)
+![roboep 8 4](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/da2b1f41-5dba-49d4-b06a-465ff4464b0c)
+![robo ep 8 5](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/1c7df273-32e9-4ddc-aa4a-54c586f9e47b)
 
+![robo ep 8 6](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/9801c0dd-c9cf-445c-8cc8-8204f1c56c7b)
+![robo ep8 7](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/7da946a0-8fab-4732-a980-95f3ab05896f)
+
+![robo ep 8 9](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/f20ae3a3-e3a0-4277-a543-6103ec04e708)
+![robo ep 8 10](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/c5e157f3-ec23-446d-95f3-752480ffc9bb)
+![robo ep 8 11](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/a5512a77-82aa-4b7e-ace9-7bc4ac70dbc2)
+![robo ep 8 12](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/ef2c69db-3da7-4f59-97d1-fd329b56d2ad)
+![robo ep 8 13](https://github.com/hema-dharshini5/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147117728/981ed4fb-8de7-4455-a51f-68bafa1c4e6d)
 
 ### Results: 
 
